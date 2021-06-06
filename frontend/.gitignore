@@ -1,0 +1,4 @@
+.snowpack
+*.log
+build
+node_modules
